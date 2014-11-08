@@ -5,7 +5,7 @@ require 'uber/version'
 
 Gem::Specification.new do |spec|
   spec.name = 'uber'
-  spec.version = uber::VERSION
+  spec.version = UberCar::VERSION
   spec.authors = ['Lukasz Raczylo']
   spec.email = ['lukasz@raczylo.com']
   spec.summary = %q{Ruby client library for Uber API}
