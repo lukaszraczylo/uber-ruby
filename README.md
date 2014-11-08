@@ -1,6 +1,6 @@
 # Gem for Uber API  ( uber.com )
 
-[![Gem Version](https://badge.fury.io/rb/ubercars.svg)](http://badge.fury.io/rb/ubercars) 
+[![Gem Version](https://badge.fury.io/rb/ubercar.svg)](http://badge.fury.io/rb/ubercar) 
 [![Code Climate](https://codeclimate.com/github/lukaszraczylo/uber-ruby/badges/gpa.svg)](https://codeclimate.com/github/lukaszraczylo/uber-ruby)
 [![Gratipay](https://img.shields.io/gratipay/lukaszraczylo.svg)](https://gratipay.com/lukaszraczylo/)
 
