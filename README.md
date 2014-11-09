@@ -10,7 +10,7 @@ This is a Ruby Gem for the uber.com API. It should simplify the process of consu
 Add following to your application Gemfile
 
 ```
-gem 'ubercars'
+gem 'ubercar'
 ```
 
 Then execute
@@ -22,7 +22,7 @@ $ bundle install
 Or install it just like that
 
 ```
-$ gem install ubercars
+$ gem install ubercar
 ```
 
 ### Usage
@@ -31,7 +31,7 @@ It's pretty straightforward. Sample script using UberCars API:
 
 ```
 #!/usr/bin/env ruby
-require 'uber'
+require 'ubercar'
 require 'ap'
 
 CFG_CLIENT_ID = '-banana'
